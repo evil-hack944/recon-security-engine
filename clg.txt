@@ -1,0 +1,21 @@
+Top Bachelor Options for Cybersecurity
+
+* ireland 
+-University of Limerick (UL): Offers a specialized Bachelor of Science (Hons) in Cyber Security and IT Forensics focusing on network defense, secure systems, and cyber crime investigation
+-Munster Technological University (MTU): Provides a comprehensive BSc in Cybersecurity with heavy practical training and direct industry ties in Cork
+-University College Dublin (UCD): Offers robust computing and computer science degrees with strong pathways and high employment reputation in Dublin's tech hub, though specialized undergraduate cyber tracks are often integrated into general Computer Science
+-Technological University Dublin (TU Dublin): Delivers applied computing degrees with strong technical and affordable paths, ideal for hands-on learning in Dublin.
+- Atlantic Technological University - ATU (Donegal/Letterkenny Campus)The Degree: BSc (Hons) in Computing with Cybersecurity and Digital Forensics
+
+* united states
+1. Dakota State University (Madison, South Dakota, USA)The Degree: Bachelor of Science in Cyber Operations. [1] (https://programs.com/programs/cybersecurity-bachelors-degrees/)The Practical Labs: DSU houses the Madison Cyber Labs (MadLabs), a highly advanced facility dedicated to elite cyber warfare and defense R&D. Students actively train inside simulated, sandboxed environments mimicking national utility grid hacks and military command takeovers. [1] (https://programs.com/programs/cybersecurity-bachelors-degrees/)NSA & Defense Level Alignment: Their curriculum directly aligns with the NSA's exact requirements for tactical cyber operations. Graduates are heavily recruited by the NSA, U.S. Cyber Command, and the Department of Defense (DoD). [1] (https://www.cyberdegrees.org/listings/), [2] (https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/), [3] (https://programs.com/programs/cybersecurity-bachelors-degrees/
+2. SANS Technology Institute (Bethesda, Maryland, USA)The Degree: Bachelor of Science in Applied Cybersecurity. [1] (https://www.sans.edu/)The Practical Labs: Rather than academic theory, SANS is an industry-first training school that operates entirely around 100% hands-on ranges. Their students routinely dominate U.S. national hacking competitions (like the National Cyber League). [1] (https://www.sans.edu/)NSA & Defense Level Alignment: The curriculum is DoD 8140 approved, which means its courses are certified by the U.S. military to train active-duty defense personnel and intelligence contractors. [1] (https://www.sans.edu/)
+3. University of Arizona (Tucson, Arizona, USA)The Degree: Bachelor of Applied Science (BAS) in Cyber Operations.The Practical Labs: They operate a state-of-the-art Virtual Cyber Forensics Lab and an on-campus Cyber Range. Because it is a "Bachelor of Applied Science", the curriculum replaces standard theoretical math with strictly tactical, keyboard-driven threat hunting.NSA & Defense Level Alignment: Holds every single NSA designation including CAE-CD, CAE-CO, CAE-R, and the newly established CAE-AI (Cyber Artificial Intelligence). [1] (https://www.cyberdegrees.org/listings/best-bachelors-security-management-degree/), [2] (https://programs.com/programs/cybersecurity-bachelors-degrees/)
+
+* usa 
+ 1.University of Cincinnati (Ohio, USA)The Degree: Bachelor of Science in Cybersecurity
+2. Norwich University (Vermont, USA)The Degree: Bachelor of Science in Cybersecurity
+
+*uk
+ 1. Edinburgh Napier University (Edinburgh, Scotland)The Degree: BEng (Hons) in Cybersecurity and Forensics
+2. University of South Wales (Wales, UK)The Degree: BSc (Hons) in Cyber Security.
