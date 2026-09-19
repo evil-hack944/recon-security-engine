@@ -1,0 +1,17 @@
+{
+    "target": "scanme.nmap.org",
+    "ip": "45.33.32.156",
+    "services": [
+        {
+            "port": 22,
+            "service": "SSH",
+            "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13"
+        },
+        {
+            "port": 80,
+            "service": "HTTP",
+            "banner": "HTTP/1.1 200 OK"
+        }
+    ],
+    "subdomains": []
+}
