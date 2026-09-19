@@ -1,20 +1,13 @@
-# Lightweight Network Recon Engine
+# Recon Engine - Automated Network Footprinting Tool
 
-A Python-based CLI tool designed for automated network reconnaissance, service fingerprinting, and security audit logging.
+A fast, lightweight Python CLI tool for network reconnaissance, banner grabbing, and subdomain discovery. Built for security auditing and preliminary foot-printing.
 
 ## Features
-- **DNS Resolution:** Resolves target domain names to IPv4 addresses.
-- **Port Scanning:** Audits common service ports (21, 22, 80, 443, 8080).
-- **Banner Grabbing:** Extracts service version banners from open ports.
-- **Audit Summary Logging:** Automatically generates clean, time-stamped text logs (`audit_<target>.txt`).
-
-## Requirements
-- Python 3.x
-- No third-party dependencies required (built using core libraries: `socket`, `json`, `datetime`).
+- **Open Port Scanning:** Checks critical infrastructure ports (FTP, SSH, HTTP, HTTPS, etc.).
+- **Banner Grabbing:** Extracts service versions via direct socket interaction.
+- **Subdomain Enumeration:** Uses multi-threaded HTTP requests to detect active subdomains.
+- **Automated Logging:** Exports structured scan reports in `.json` format.
 
 ## Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/evil-hack944/recon-security-engine.git](https://github.com/evil-hack944/recon-security-engine.git)
-   cd recon-security-engine
+```bash
+python recon.py
