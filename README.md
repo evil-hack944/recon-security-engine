@@ -10,4 +10,17 @@ A fast, lightweight Python CLI tool for network reconnaissance, banner grabbing,
 
 ## Usage
 ```bash
-python recon.py
+python recon.
+
+
+## 2. Web Vulnerability Scanner (`web_scanner.py`)
+An automated web vulnerability scanner built in Python to audit web forms for security flaws like XSS and SQL Injection.
+
+### Features
+- Parses HTML forms using `BeautifulSoup4`.
+- Tests input parameters against XSS payloads and SQL error signatures.
+- Evaluates both `GET` and `POST` request methods.
+
+### Usage
+```bash
+python web_scanner.py
